@@ -21,6 +21,7 @@ def numeroPar(self):
 def numeroImpar(self): #Se declaro el metodo
     self.__numeroImpar
     return 0
+
 def validaNumero(self):
     self.__validaNumero
     return 0
